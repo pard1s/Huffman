@@ -1,5 +1,5 @@
 # Huffman
-Text encryption and decryption with Huffman algorithm with java
+Text encryption and decryption using Huffman Code with java
 
 This code uses Huffman coding to encrypt and decrypt text. First choose the operation then specify the path of .txt file. smaple output:
 
